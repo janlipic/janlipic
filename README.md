@@ -97,26 +97,5 @@ The project focuses on creating a responsive and maintainable web application wi
 
 ---
 
-### 📅 Wiser Timetable – University Timetable Application
-
-**University Team Project – Frontend Development**
-
-A collaborative web application designed to help students manage and organize their university schedules.
-
-My main focus was frontend development, particularly the timetable interface and event management functionality.
-
-**My Contributions:**
-- Weekly timetable interface and layout
-- Interactive schedule grid with time slots
-- Event creation and editing interfaces
-- Event cards and visual presentation
-- Date and time selection interfaces
-- Responsive and reusable UI components
-
-**Technologies:** React, TypeScript, Tailwind CSS.
-
-Developed as part of a collaborative university project. Source code is maintained in a private team repository.
-
 ## 📫 Contact
-
 - GitHub: [@janlipic](https://github.com/janlipic)
