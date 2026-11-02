@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jan 👋
 
-<!--
-**janlipic/janlipic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student from Slovenia with a passion for software development and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional software, with a focus on clean code, intuitive user interfaces and user experience.
+
+### 🛠️ Technologies & Tools
+
+**Frontend Development**
+- React
+- React Native
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Tailwind CSS
+
+**Programming Languages**
+- Kotlin
+- C++
+- Java
+
+**Tools & Frameworks**
+- Electron
+- WPF
+- Vite
+- Git & GitHub
+- Playwright
+
+### 🚀 Featured Projects
+
+More projects coming soon!
+
+### 📫 Contact
+
+- GitHub: [@janlipic](https://github.com/janlipic)
